@@ -1,0 +1,33 @@
+.all-border td{
+	border-bottom: #154360 solid 1px;
+}
+
+.skill-table{
+	border: #154360 solid 1px;
+}
+.skill-table th{
+	color:#154360;
+	text-align:left;
+	padding-left:7px;
+	padding-right:7px;
+	border: #154360 solid 1px;
+}
+.skill-table td{
+	color:#1A5276;
+	text-align:left;
+	padding: 2px!important;
+	padding-left: 5px!important;
+	padding-right: 5px!important;
+	border-left: #154360 solid 1px;
+	border-right: #154360 solid 1px;
+}
+
+.skill-li{
+	margin-left:30px;
+}
+
+.sub-title{
+	font-weight: bold;
+	font-family: 'RobotoSlab-Regular';
+	color: #15276B;
+}
